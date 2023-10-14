@@ -1,2 +1,5 @@
 # Compiled C
 a.out
+
+# Rust builds
+target/
