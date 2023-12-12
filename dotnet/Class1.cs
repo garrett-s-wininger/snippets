@@ -1,5 +1,3 @@
-using System;
-
 namespace MyClasses {
     public class Class1 {
         public Class2 ContainedClass { get; }
