@@ -3,3 +3,7 @@ a.out
 
 # Rust builds
 target/
+
+# Dotnet
+obj/
+bin/
